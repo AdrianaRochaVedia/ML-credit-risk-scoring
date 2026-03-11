@@ -25,11 +25,7 @@ El conjunto de datos incluye aproximadamente **30,000 registros** y variables re
 - montos facturados
 - montos pagados
 
-La variable objetivo para el problema de clasificación es:
-
-`default.payment.next.month`
-
-que indica si el cliente incurre en incumplimiento de pago el siguiente mes.
+En este proyecto se consideran dos variables objetivo. La primera es PAY_AMT, utilizada para un problema de regresión orientado a estimar el monto de pago futuro del cliente. La segunda es default.payment.next.month, utilizada para un problema de clasificación binaria que permite predecir si el cliente incurrirá en incumplimiento de pago el siguiente mes.
 
 Enlace de descarga del dataset:
 
