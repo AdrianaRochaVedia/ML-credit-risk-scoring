@@ -32,7 +32,7 @@ En este proyecto se consideran dos variables objetivo:
 
 **Enlace de descarga del dataset**
 
-https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+ https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 
 ---
 
